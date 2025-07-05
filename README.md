@@ -1,9 +1,11 @@
-<h1 align="center">
-  👋 Hello World! I'm S.P. Darshan
-</h1>
+<p align="center">
+  <img src="assets/My banner.png" alt="S.P. Darshan Banner" style="width: 100%; max-width: 800px;" />
+</p>
+
+##
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=ML+%26+DL+Enthusiast;Full+Stack+Developer;IoT+Engineer;Exploring+Mobile+App+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+an+ML+%26+DL+Enthusiast;I'm+a+Full+Stack+Developer;I'm+an+IoT+Engineer;I'm+exploring+Mobile+App+Development" alt="Typing SVG" />
 </p>
 
 <table>
