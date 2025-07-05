@@ -37,8 +37,8 @@ print(darshan.welcome())
 ```
 </td>
 <td width="60%" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdtM29lM2ljZmYxM2FkdDBxbWlnZ2RqZWYya2U0aG1kNnluMnJraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"
-       style="height: 350px; width: 300px;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lpbTh3Mm1kdzRtMTJ2OWhvNnM0ZWVkeGNjaXZ1c3VxYm8yNDh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"
+       style="height: 300px; width: 300px;" />
 </td>
 </tr>
 </table>
