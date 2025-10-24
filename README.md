@@ -12,7 +12,7 @@
 <tr>
 <td width="40%">
   
-<h2 align="center"> About Me 🧑‍💻</h2>
+<h2 align="center"> About Me </h2>
 
 ```python
 
@@ -32,7 +32,7 @@ class Darshan:
     self.fun_fact = "I Love building hardware, ML, automation systems."
 
   def welcome(self):
-    return "Welcome to my GitHub! 🏁"
+    return "Welcome to my GitHub!"
   
 darshan = Darshan()
 print(darshan.welcome())
