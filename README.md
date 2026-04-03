@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  Full Stack Developer, Machine Learning enthusiast, and IoT builder focused on practical projects, clean interfaces and real-world problem solving.
-</p>
-
-<p align="center">
-  I build with Python, JavaScript, React, Node.js and TensorFlow with an interest in ML model deployment, web development and embedded systems.
+  Full Stack Developer, Machine Learning enthusiast, and IoT builder focused on practical projects, clean interfaces, and real-world problem solving using Python, JavaScript, React, Node.js, TensorFlow, and embedded systems.
 </p>
 
 <p align="center">
@@ -60,6 +56,9 @@ print(darshan.welcome())
 </p>
 
 <p align="center">
+  <a href="https://www.spdarshan.tech/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="mailto:spdarshan14@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
@@ -86,15 +85,16 @@ print(darshan.welcome())
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br><br>
 
   <!-- Web Dev -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/EXPRESS.JS-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <br><br>
@@ -102,6 +102,7 @@ print(darshan.welcome())
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <br><br>
 
   <!-- Data Science Libraries -->
@@ -111,6 +112,7 @@ print(darshan.welcome())
   <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWER%20BI-F2CC0C?style=for-the-badge&logo=powerbi&logoColor=black" />
   <br><br>
 
   <!-- Hardware -->
@@ -123,6 +125,8 @@ print(darshan.welcome())
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 
@@ -143,20 +147,6 @@ print(darshan.welcome())
   <!-- GitHub Streak (full width below) -->
   <img src="https://streak-stats.demolab.com?user=sp-darshan&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="auto" />
 
-</p>
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  Portfolio, LinkedIn, LeetCode, and email are the fastest ways to reach me about collaboration, hiring, or project ideas.
-</p>
-
-<p align="center">
-  <a href="https://www.spdarshan.tech/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </p>
 
 
