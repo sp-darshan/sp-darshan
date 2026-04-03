@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="assets/My banner.png" alt="S.P. Darshan Banner" style="width: 100%; max-width: 800px;" />
+  <img src="assets/My banner.png" alt="S P Darshan | Full Stack Developer | ML Engineer" style="width: 100%; max-width: 800px;" />
 </p>
 
-##
+<p align="center">
+  Full Stack Developer, Machine Learning enthusiast, and IoT builder focused on practical projects, clean interfaces and real-world problem solving.
+</p>
+
+<p align="center">
+  I build with Python, JavaScript, React, Node.js and TensorFlow with an interest in ML model deployment, web development and embedded systems.
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+an+ML+%26+DL+Enthusiast;I'm+a+Full+Stack+Developer;I'm+an+IoT+Engineer;I'm+exploring+Mobile+App+Development" alt="Typing SVG" />
@@ -19,7 +25,7 @@
 class Darshan:
   def __init__(self):
     self.name = "S.P. Darshan"
-    self.title = "Exploring ML Model Deployment & Building IoT Devices"
+    self.title = "Full Stack Developer | ML Engineer | IoT Enthusiast"
     self.education = "B.Tech in Computer Communication Engineering"
     self.focus_areas = [
       "Machine Learning & Deep Learning",
@@ -50,6 +56,10 @@ print(darshan.welcome())
 ## Let's Share Ideas & Grow
 
 <p align="center">
+  Open to opportunities in full stack development, machine learning engineering, and IoT project collaboration.
+</p>
+
+<p align="center">
   <a href="mailto:spdarshan14@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
@@ -67,6 +77,10 @@ print(darshan.welcome())
 ---
 
 ## Tech Stack
+
+<p align="center">
+  Core tools and technologies I use for full stack development, machine learning, data analysis, and IoT projects.
+</p>
 
 <p align="center">
   <!-- Programming Languages -->
@@ -115,6 +129,10 @@ print(darshan.welcome())
 ## GitHub Analytics
 
 <p align="center">
+  A quick snapshot of my GitHub activity, language mix, and consistency.
+</p>
+
+<p align="center">
   
   <!-- GitHub Stats (left card) -->
   <img src="https://github-readme-stats.vercel.app/api?username=sp-darshan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&rank_icon=circle&hide_border=true&border_radius=10" width="48%" />
@@ -125,6 +143,20 @@ print(darshan.welcome())
   <!-- GitHub Streak (full width below) -->
   <img src="https://streak-stats.demolab.com?user=sp-darshan&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="auto" />
 
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  Portfolio, LinkedIn, LeetCode, and email are the fastest ways to reach me about collaboration, hiring, or project ideas.
+</p>
+
+<p align="center">
+  <a href="https://www.spdarshan.tech/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 
