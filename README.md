@@ -137,16 +137,8 @@ print(darshan.welcome())
 </p>
 
 <p align="center">
-  
-  <!-- GitHub Stats (left card) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sp-darshan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&rank_icon=circle&hide_border=true&border_radius=10" width="48%" />
-
-  <!-- Most Used Languages (right card) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-darshan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" width="auto" />
-
   <!-- GitHub Streak (full width below) -->
   <img src="https://streak-stats.demolab.com?user=sp-darshan&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="auto" />
-
 </p>
 
 
